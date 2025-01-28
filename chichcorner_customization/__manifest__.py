@@ -44,7 +44,6 @@
     'assets': {
         'web.assets_backend': [
             'chichcorner_customization/static/src/models/barcode_picking_model.js',
-            'chichcorner_customization/static/src/js/print_direct.js',
         ],
         'point_of_sale._assets_pos': [
             'chichcorner_customization/static/src/app/**/*',
